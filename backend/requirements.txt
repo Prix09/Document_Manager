@@ -1,0 +1,62 @@
+# --------------------
+# FASTAPI + SERVER
+# --------------------
+fastapi
+uvicorn[standard]
+
+# --------------------
+# BASE UTILITIES
+# --------------------
+pydantic
+python-multipart
+python-dotenv
+loguru
+
+# --------------------
+# PDF PROCESSING
+# --------------------
+pypdf
+pdfminer.six
+
+# --------------------
+# NLP + TEXT CLEANING
+# --------------------
+nltk
+regex
+
+# --------------------
+# EMBEDDINGS + ML
+# --------------------
+huggingface-hub
+sentence-transformers
+numpy
+pandas
+scikit-learn
+
+# --------------------
+# VECTOR DB (FAISS)
+# --------------------
+faiss-cpu
+
+# --------------------
+# LLMs + TOKENIZATION
+# --------------------
+requests
+tiktoken
+
+# --------------------
+# EVALUATION
+# --------------------
+rouge-score
+
+# --------------------
+# OPTIONAL HUGGINGFACE
+# --------------------
+transformers
+accelerate
+
+# --------------------
+# WEB SCRAPING (SELENIUM)
+# --------------------
+selenium
+webdriver-manager

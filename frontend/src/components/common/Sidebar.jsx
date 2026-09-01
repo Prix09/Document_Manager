@@ -5,7 +5,7 @@ function Sidebar() {
     <div className="w-64 bg-gray-900 text-white p-6 flex flex-col">
 
       <h2 className="text-xl font-bold mb-8">
-        Assistant
+        Document Manager
       </h2>
 
       <nav className="flex flex-col gap-4">

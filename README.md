@@ -1,4 +1,4 @@
-# Enterprise GenAI Knowledge Assistant
+# Document Manager
 
 A fast, offline Retrieval Augmented Generation (RAG) system built with **FastAPI**, **React**, and **Ollama**.
 
